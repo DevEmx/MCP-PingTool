@@ -1,0 +1,16 @@
+{
+  "name": "mcp1",
+  "version": "1.0.0",
+  "description": "Learning McP",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DevEmx",
+  "license": "ISC",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.16.0",
+    "tsx": "^4.20.3",
+    "zod": "^3.25.76"
+  }
+}
